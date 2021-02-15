@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OussCodeur
-- 👀 I’m interested in Front-End Developement
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning JavaScript, React
 - 💞️ I’m looking to collaborate on Open Source project
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/oussamachebli/
